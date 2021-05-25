@@ -1,0 +1,43 @@
+/*---------------------
+  Hero
+-----------------------*/
+.hero {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+  }
+
+.hero__text {
+
+    h5 {
+        color: $white-color;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 20px;
+    }
+
+    h2 {
+        font-size: 42px;
+        font-weight: 800;
+        text-transform: uppercase;
+        font-style: italic;
+        color: $white-color;
+        margin-bottom: 30px;
+    }
+
+    .second-bg {
+        margin-left: 15px;
+    }
+}
