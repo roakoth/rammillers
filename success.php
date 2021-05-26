@@ -92,7 +92,7 @@ Since inception, Ramm Millers Limited has a catalytic business inclusive approac
 <section id="business" class="mb-4">
 
 <div class="container">
-    <div class="row" style="margin-bottom:7rem;">
+    <div class="row" style="margin-bottom:5rem;">
       
         
       <div class="column-1 col-12 col-sm-6 col-md-6 col-lg-6">
@@ -101,7 +101,7 @@ Since inception, Ramm Millers Limited has a catalytic business inclusive approac
       </div>
 
       <div class="column-2 col-12 col-sm-6 col-md-6 col-lg-6">
-      <img src="img/45.jpeg" style="height: 500px; width: 600px;">
+      <img src="img/50.jpeg" style="height: 500px; width: 600px;">
 
         </div>
 
@@ -124,11 +124,52 @@ Since inception, Ramm Millers Limited has a catalytic business inclusive approac
 
 
 
+<section id="genesis" style="margin-top: 50px; margin-bottom: 90px;">
+
+<div class="container">
+<div class="text-center">
+      <h2 style="color: green; margin-bottom: 30px;">Genesis of Ramm Millers Limited</h2>
+      </div>
+    <div class="row">
+        <div class="column-1 col-12 col-sm-6 col-md-6 col-lg-6">
+        
+        <img src="img/42.jpeg" style="height: 500px; width:500px; margin-bottom: 20px;" alt="Image">
+        
+        <img src="img/45.jpeg" style="height: 500px; width:500px; margin-bottom: 20px;" alt="Image">
+
+        </div>
+
+        <div class="column-2 col-12 col-sm-6 col-md-6 col-lg-6" style="background-color:#F4F6FC;" >
+        <p style="margin-top:20px;">Ramm Millers humble beginnings sprung from outsourcing milling services to household deliveries on hand delivery and eventually grew to a supply chain that needed a bicycle and  two employees. The capital input was small and hence the output was low at that time. There were myriad of challenges at the beginning; Customers were only households and many of them paid after three to four days from the date of delivery. Transport with a bike during rainy seasons was a big challenge, and many customers never relied on me during such weather conditions.</p>
+        <p>Amidst the many challenges, Ramm Millerswas able to acquire a TVS motorcycle, thanks to the trust of my suppliers who now had doubled their maize supply and the ever growing product clientele that now was to retail shops, supermarkets, Hotels and restaurants.
+
+ The business has expanded enabling us to erect a milling plant premises so as to accommodate my expanding business and currently milling from the premises.
+
+In this spirit, we acquired a new vehicle (Toyota Probox) and this greatly made it easier to deliver our products to customers although we would still hire a pickup alongside due to raising demand of our product.</p>
+        <p>With the current maize shortage and an increase in demand on maize flour in the market since the beginning of this year 2017, we have recently acquired pick up so as to enable the company meet the client’s demands of our products
+Below is a picture of our new acquired Pick-up
+</p>
+<p>Ramm Millers humble beginnings sprung from outsourcing milling services to household deliveries on hand delivery and eventually grew to a supply chain that needed a bicycle and  two employees. The capital input was small and hence the output was low at that time. There were myriad of challenges at the beginning; Customers were only households and many of them paid after three to four days from the date of delivery. Transport with a bike during rainy seasons was a big challenge, and many customers never relied on me during such weather conditions.</p>
+             <p>Amidst the many challenges, Ramm Millerswas able to acquire a TVS motorcycle, thanks to the trust of my suppliers who now had doubled their maize supply and the ever growing product clientele that now was to retail shops, supermarkets, Hotels and restaurants.
+
+ The business has expanded enabling us to erect a milling plant premises so as to accommodate my expanding business and currently milling from the premises.
+
+In this spirit, we acquired a new vehicle (Toyota Probox) and this greatly made it easier to deliver our products to customers although we would still hire a pickup alongside due to raising demand of our product.</p>
+          <p>With the current maize shortage and an increase in demand on maize flour in the market since the beginning of this year 2017, we have recently acquired pick up so as to enable the company meet the client’s demands of our products. On the right is the picture of our new acquired Pick-up</p>
+ 
+        </div>
+
+    </div>
+
+</div>
+
+</section> 
+
 
     <!-- Logs Section End -->
     
 
-<div class="container">
+<!-- <div class="container">
         <div class="text-center">
       <h2 style="color: green">Genesis of Ramm Millers Limited</h2>
       </div>
@@ -144,8 +185,8 @@ Since inception, Ramm Millers Limited has a catalytic business inclusive approac
           <div class="col-md-5 ml-auto">
            
 
-            <p class="mb-8 mb-lg-0 col-sm-6 col-md-6 col-lg-12">Ramm Millers humble beginnings sprung from outsourcing milling services to household deliveries on hand delivery and eventually grew to a supply chain that needed a bicycle and  two employees. The capital input was small and hence the output was low at that time. There were myriad of challenges at the beginning; Customers were only households and many of them paid after three to four days from the date of delivery. Transport with a bike during rainy seasons was a big challenge, and many customers never relied on me during such weather conditions.</p>
-             <p class="mb-8 mb-lg-0 col-sm-6 col-md-6 col-lg-12">Amidst the many challenges, Ramm Millerswas able to acquire a TVS motorcycle, thanks to the trust of my suppliers who now had doubled their maize supply and the ever growing product clientele that now was to retail shops, supermarkets, Hotels and restaurants.
+            <p>Ramm Millers humble beginnings sprung from outsourcing milling services to household deliveries on hand delivery and eventually grew to a supply chain that needed a bicycle and  two employees. The capital input was small and hence the output was low at that time. There were myriad of challenges at the beginning; Customers were only households and many of them paid after three to four days from the date of delivery. Transport with a bike during rainy seasons was a big challenge, and many customers never relied on me during such weather conditions.</p>
+             <p>Amidst the many challenges, Ramm Millerswas able to acquire a TVS motorcycle, thanks to the trust of my suppliers who now had doubled their maize supply and the ever growing product clientele that now was to retail shops, supermarkets, Hotels and restaurants.
 
  The business has expanded enabling us to erect a milling plant premises so as to accommodate my expanding business and currently milling from the premises.
 
@@ -158,7 +199,7 @@ In this spirit, we acquired a new vehicle (Toyota Probox) and this greatly made 
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
 
 
