@@ -33,7 +33,7 @@
       <div class="container">
         <div class="row">
              
-      <?php  Blog();?>
+      
      </div>
  </div>
 </div>

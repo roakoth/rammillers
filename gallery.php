@@ -35,7 +35,7 @@
       <div class="container">
         <div class="row">
      
-      <?php  Gallery();?>
+      
       </div>
     </div>
   </div>
