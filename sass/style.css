@@ -1160,6 +1160,11 @@ h3, h4, h5, h6, p, div, span, li {
   height: 560px;
 }
 
+#aboutUs video {
+  width: 700px;
+  height: 400px;
+}
+
 #mission, #products {
   margin-bottom: 3rem;
 }
@@ -2587,12 +2592,20 @@ img {
   .container {
     max-width: 1170px;
   }
+  #aboutUs video {
+    width: 700px;
+    height: 400px;
+  }
 }
 
 /* Medium Device = 1200px */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .header__right__social {
     margin-right: 12px;
+  }
+  #aboutUs video {
+    width: 700px;
+    height: 400px;
   }
   #clients .card {
     margin-bottom: 20px;
@@ -2622,6 +2635,10 @@ img {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .about__video__text {
     height: auto;
+  }
+  #aboutUs video {
+    width: 700px;
+    height: 400px;
   }
   #clients .card {
     margin-bottom: 20px;
@@ -2766,6 +2783,10 @@ img {
 @media (min-width: 576px) {
   .feature__item.right-column {
     margin-top: 120px !important;
+  }
+  #aboutUs video {
+    width: 500px;
+    height: 350px;
   }
   #clients .card {
     margin-bottom: 20px;
@@ -2960,6 +2981,10 @@ img {
 @media only screen and (max-width: 479px) {
   .section-title h2 {
     font-size: 30px;
+  }
+  #aboutUs video {
+    width: 350px;
+    height: 300px;
   }
   #clients .card {
     margin-bottom: 20px;

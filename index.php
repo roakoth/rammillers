@@ -33,7 +33,7 @@
     <!-- About us section begins -->
     <main>
 
-    <section id="mission" class="my-4 sponsors mb-4">
+    <section id="mission" class="my-4 mb-4">
         <div class="container">
             <div class="row">
         <div class="flex-items col-12 col-sm-6 col-md-4 col-lg-4">
@@ -84,20 +84,20 @@
 
         <div class="container">
             <div class="row">
-                <div class="column-1 col-12 col-sm-6 col-md-6 col-lg-5">
+                <div class="column-1 col-12 col-sm-6 col-md-6 col-lg-7">
                 <h2 class="heading font-weight-bold">Video About Us</h2>
-      <video width="500" height="300" controls>
-            <source src="img/ugalileo.mp4" type=video/mp4>
+      <video controls>
+            <source src="img/ugalileo.mp4" type="video/mp4">
       </video>
        
                 </div>
-                <div class="column-2 col-12 col-sm-6 col-md-6 col-lg-5 offset-2">
+                <div class="column-2 col-12 col-sm-12 col-md-6 col-lg-5">
                 <h2 class="heading font-weight-bold" >Who We Are</h2>
         <p>RAMM MILLER LTD is an ambient Maize Milling plant located at a quiet Malel Farm off Kisumu Road in Kapseret Uasin Gishu County and certifeid with Environmental Impact Assessment Licence Number 0026534 and certificate number NEMAVEIA/LTL/139 has stood tall as a renowned manucture and supplier of food and Animal feed products across six countries.
 
-Incorporated four years ago, we are flourished by compitent and experienced staff offering modern food technology techniques.</p>
-<h2> Packaging</h2>
-<p>Our flour is accurately and hygienically packed using quality food grade packaging materials. All our staff are medically tested and leaves no doubt of handling food products.</p>
+         Incorporated four years ago, we are flourished by compitent and experienced staff offering modern food technology techniques.</p>
+         <h2> Packaging</h2>
+         <p>Our flour is accurately and hygienically packed using quality food grade packaging materials. All our staff are medically tested and leaves no doubt of handling food products.</p>
                 </div>
 
             </div>
@@ -173,7 +173,7 @@ Incorporated four years ago, we are flourished by compitent and experienced staf
 <section id="clients"class="mb-4 mt-4">
 <div class="container">
    <div class="row" style="margin-bottom:7rem;" >
-   <div class="desc">
+   <div class="col-12 col-sm-12 col-lg-12">
       <h2 style="text-align: center;" class="font-weight-bold"> Some Of Our Major Clients</h2>
       <p style="text-align: center;">Honoured to have supplied various reputable institutions,Distributors,Supermarkets, Shops and Dairy farmers.We extend our zeal to make you enjoy Ugali Leo and improve health and production of of your Dairy Cattle. A small listing of some of our most notable clients include but is not limited to:</p>
    </div>    
