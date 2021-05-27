@@ -39,39 +39,6 @@
         <div class="loader"></div>
     </div>
 
-    <!-- Offcanvas Menu Begin -->
-    <div class="offcanvas-menu-overlay"></div>
-    <div class="offcanvas-menu-wrapper" class="fixed-top">
-        
-
-        <div class="offcanvas__logo">
-
-            <a href="./index.php"><img src="img/rlogo.png" width="30%"></a>
-        </div>
-
-        <nav id="navbar" class="offcanvas__menu mobile-menu fixed-top">
-           
-            <ul>
-                <li><a href="./index.php">Home</a></li>
-                <li><a href="./services.php">Services</a></li>
-                <li><a href="./gallery.php">Gallery</a></li>
-                <li><a href="./success.php">Our Story</a></li>
-                <li><a href="./contact.php">Contact us</a></li>
-                <li><a href="./blog.php">Blog</a></li>
-            </ul>
-        </nav>
-        <div id="mobile-menu-wrap"></div>
-        <div class="offcanvas__social">
-            
-            
-            <a href="https://api.whatsapp.com/send?phone=+254722232392&text=Hi, Rachel(CONTACTED FROM RAMM MILLERS LTD)"><i class="icofont icofont-social-whatsapp"><i class="fa fa-whatsapp"></i></a>
-        </div>
-        <div class="offcanvas__btn">
-            <a href="tel:+252756232392" class="primary-btn">Call Us</a>
-        </div>
-    </div>
-    <!-- Offcanvas Menu End -->
-
     <!-- Header Section Begin -->
     <header class="header fixed-top">
         <div class="container">
