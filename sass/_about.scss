@@ -74,7 +74,7 @@
 
   #maize {
       height: 100%;
-      width: 95%;
+      width: 85%;
   }
 
   img {
@@ -85,9 +85,17 @@
 
   #preference {
     // background: #F4F6FC;
+
+    p {
+        font-size: 16px;
+        font-weight: none;
+    }
     li {
         list-style: none;
+        font-size: 16px;
     }
+
+
   }
 
 

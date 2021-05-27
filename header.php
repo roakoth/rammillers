@@ -41,7 +41,7 @@
 
     <!-- Offcanvas Menu Begin -->
     <div class="offcanvas-menu-overlay"></div>
-    <div class="offcanvas-menu-wrapper">
+    <div class="offcanvas-menu-wrapper" class="fixed-top">
         
 
         <div class="offcanvas__logo">
@@ -49,7 +49,7 @@
             <a href="./index.php"><img src="img/rlogo.png" width="30%"></a>
         </div>
 
-        <nav id="navbar" class="offcanvas__menu mobile-menu">
+        <nav id="navbar" class="offcanvas__menu mobile-menu fixed-top">
            
             <ul>
                 <li><a href="./index.php">Home</a></li>
@@ -73,7 +73,7 @@
     <!-- Offcanvas Menu End -->
 
     <!-- Header Section Begin -->
-    <header class="header">
+    <header class="header fixed-top">
         <div class="container">
             <div class="row">
                 <div class="col-lg-2">

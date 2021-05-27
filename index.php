@@ -140,18 +140,18 @@
 <div class="container">
     <div class="row" style="margin-bottom:7rem;">
       
-    <div class="column-2 col-12 col-sm-6 col-md-6 col-lg-5">
+    <div class="column-2 col-12 col-sm-6 col-md-6 col-lg-6">
             <img id="maize" src="img/undraw_check_boxes_m3d0.svg" alt="" />
 
     </div> 
         
-      <div class="column-1 col-12 col-sm-6 col-md-6 col-lg-5 offset-1">
+      <div class="column-1 col-12 col-sm-6 col-md-6 col-lg-5" style="margin-left: 2rem;">
        
           <h2 class="font-weight-bold">Why Choose Us</h2>
           <p>We are selected by the clients owing the following reasons:</p>
           
                 <ul>
-             <li style="list-style-type: none">   <i class="fa fa-check" aria-hidden="true"></i> We offer premium food products that are appreciated for their taste and healthiness. </li>
+             <li style="list-style-type: none;">   <i class="fa fa-check" aria-hidden="true"></i> We offer premium food products that are appreciated for their taste and healthiness. </li>
            <li style="list-style-type: none">    <i class="fa fa-check" aria-hidden="true"></i> We ensure timely delivery of these food products. </li>
               
               <li style="list-style-type: none">   <i class="fa fa-check" aria-hidden="true"></i> We offer these food products at the best affordable price. </li>
@@ -282,16 +282,6 @@
     <?php include 'footer.php';?>
     <!-- Footer Section End -->
 
-    <!-- Search Begin -->
-    <div class="search-model">
-        <div class="h-100 d-flex align-items-center justify-content-center">
-            <div class="search-close-switch">+</div>
-            <form class="search-model-form">
-                <input type="text" id="search-input" placeholder="Search here.....">
-            </form>
-        </div>
-    </div>
-    <!-- Search End -->
 
     <!-- Js Plugins -->
     <script src="js/jquery-3.3.1.min.js"></script>

@@ -42,9 +42,9 @@ h4,
 h5,
 h6 {
   margin: 0;
-  color: #111111;
+  color: #006400;
   font-weight: 400;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 h1 {
@@ -72,10 +72,9 @@ h6 {
 }
 
 p {
-  font-size: 15px;
+  font-size: 16px;
   font-family: 'Open Sans', sans-serif;
   color: #000000;
-  font-weight: 400;
   line-height: 26px;
   margin: 0 0 15px 0;
 }
@@ -322,7 +321,7 @@ ol {
 -----------------------*/
 .header {
   background: #0c2b4b;
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
   width: 100%;
@@ -1228,7 +1227,7 @@ h2 {
 
 #maize {
   height: 100%;
-  width: 95%;
+  width: 85%;
 }
 
 img {
@@ -1236,8 +1235,14 @@ img {
   width: 50px;
 }
 
+#preference p {
+  font-size: 16px;
+  font-weight: none;
+}
+
 #preference li {
   list-style: none;
+  font-size: 16px;
 }
 
 #clients desc {
