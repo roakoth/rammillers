@@ -82,19 +82,19 @@
          <p>We offer different training sessions to our customers, farmers, community,women and private sectors. </p>
     </div>
     <div class="row">
-       <div class="col-sm-12 col-md-4 col-lg-3">
+       <div class="col-sm-12 col-md-4 col-lg-4">
             <img src="img/33.jpeg" alt="Image" style="height: 300px; width: 300px; margin-bottom: 20px;">
        </div>
-       <div class="col-sm-12 col-md-4 col-lg-3">
+       <div class="col-sm-12 col-md-4 col-lg-4">
           <img src="img/39.jpeg" alt="Image" style="height: 300px; width: 300px; margin-bottom: 20px;">  
        </div>
-       <div class="col-sm-12 col-md-4 col-lg-3">
+       <div class="col-sm-12 col-md-4 col-lg-4">
             <img src="img/46.jpeg" style="height: 300px ; width: 300px; margin-bottom: 20px; "> 
        </div>
-       <div class="col-sm-12 col-md-4 col-lg-3">
+       <div class="col-sm-12 col-md-4 col-lg-4">
            <img src="img/36.jpeg" style="height: 300px; width: 300px; margin-bottom: 20px;">  
        </div>
-       <div class="col-sm-12 col-md-4 col-lg-3">
+       <div class="col-sm-12 col-md-4 col-lg-4">
            <img src="img/30.jpeg" style="height: 300px; width: 300px; margin-bottom: 20px;">  
        </div>
 
