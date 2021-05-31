@@ -1013,6 +1013,17 @@ h3, h4, h5, h6, p, div, span, li {
   border-bottom: 2px solid #f3bd00;
 }
 
+.block-services-1 .column {
+  padding-bottom: 30px;
+}
+
+.block-services-1 img {
+  height: 300px;
+  width: 400px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
 /*---------------------
   Footer
 -----------------------*/
