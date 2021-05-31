@@ -11,6 +11,16 @@
       }
       
   }
+
+  #awards {
+    video {
+        width: 500px;
+        height: 400px;
+    }
+    
+}
+
+
   }
   
   /* Medium Device = 1200px */
@@ -25,7 +35,9 @@
           height: 400px;
       }
       
-  }
+     }
+
+  
     #clients {
       .card {
         margin-bottom: 20px;
@@ -71,8 +83,9 @@
       }
       
   }
-  
 
+
+  
     #clients {
       .card {
         margin-bottom: 20px;
@@ -259,6 +272,9 @@
       
     }
 
+   
+
+
     #clients {
       .card {
         margin-bottom: 20px;
@@ -291,6 +307,8 @@
       padding-top: 0;
       margin-bottom: 40px;
     }
+
+   
   
     .feature__item.right-column {
       margin-top: 0;
@@ -508,6 +526,16 @@
       }
       
     }
+    #awards {
+      video {
+          width: 370px;
+          height: 400px;
+      }
+      
+  }
+
+
+    
 
     #clients {
       .card {

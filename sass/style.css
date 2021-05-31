@@ -1365,6 +1365,11 @@ img {
   margin-right: -4px;
 }
 
+#awards video {
+  width: 500px;
+  height: 400px;
+}
+
 /*---------------------
   Feature
 -----------------------*/
@@ -2601,6 +2606,10 @@ img {
     width: 700px;
     height: 400px;
   }
+  #awards video {
+    width: 500px;
+    height: 400px;
+  }
 }
 
 /* Medium Device = 1200px */
@@ -2990,6 +2999,10 @@ img {
   #aboutUs video {
     width: 350px;
     height: 300px;
+  }
+  #awards video {
+    width: 370px;
+    height: 400px;
   }
   #clients .card {
     margin-bottom: 20px;

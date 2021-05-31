@@ -24,7 +24,7 @@
    
         <!-- <div class="text-center" style="margin-bottom:50px;">
       <h2 style="color: green">Our Success Story</h2>
-      </div> -->
+      </div> img 11-->
   
 
 
@@ -35,8 +35,8 @@
     <div class="row">
         <div class="column-1 col-12 col-sm-6 col-md-6 col-lg-6">
         
-        <img src="img/11.JPG" style="height: 500px; width:500px; margin-bottom: 20px;"> 
-        <img src="img/23.JPG" style="height: 378px; width: 500px; margin-bottom: 20px; "> 
+        <img src="img/rammilers-one.jpeg" style="height: 500px; width:500px; margin-bottom: 20px;"> 
+        <img src="img/ramillers-two.jpeg" style="height: 400px; width: 500px; margin-bottom: 20px; "> 
 
         </div>
         <div class="column-2 col-12 col-sm-6 col-md-6 col-lg-6" style="background-color:#F4F6FC;" >
@@ -101,7 +101,7 @@ Since inception, Ramm Millers Limited has a catalytic business inclusive approac
       </div>
 
       <div class="column-2 col-12 col-sm-6 col-md-6 col-lg-6">
-      <img src="img/50.jpeg" style="height: 500px; width: 600px;">
+      <img src="img/ramillers-three.jpeg" style="height: 500px; width: 600px;">
 
         </div>
 
@@ -111,11 +111,31 @@ Since inception, Ramm Millers Limited has a catalytic business inclusive approac
 
 </section>
 
-<section> 
-<div>
 
 
-</div>
+<section id="awards"> 
+<div class="container">
+            <div class="row">
+
+           
+                <div class="column-1 col-12 col-sm-6 col-md-6 col-lg-6">
+                
+      <video controls>
+            <source src="img/galaAwards.mp4" type="video/mp4">
+      </video>
+       
+                </div>
+
+                <div class="column-2 col-12 col-sm-12 col-md-6 col-lg-6" style="margin-top: 4rem;">
+                <h2 class="heading font-weight-bold" >Awarded As Best Women In Manufacturing Sector 2021</h2>
+        <p> Rachel Miami, got recognized at Women in Manufacturing Recognition Awards 2021 in Gala Dinner as women who drive inclusivity within the Manufacturing Sector </p>
+         
+                </div>
+             
+
+            </div>
+
+        </div>
 
 
 </section>
