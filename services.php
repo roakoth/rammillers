@@ -33,7 +33,7 @@
           <div class="col-md-6 col-lg-6" style="padding-bottom:30px;">
         
           <img src="img/35.jpeg" alt="Image" class="img-fluid rounded" style="height: 100%; width: 95%;">
-          <!-- <img src="img/48.jpeg" alt="Image" class="img-fluid rounded"> -->
+          
           
             
           </div>
